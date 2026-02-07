@@ -1,0 +1,9 @@
+.turbo
+node_modules
+dist
+build
+.next
+.docusaurus
+.cache-loader
+.env*.local
+*.log
